@@ -141,9 +141,9 @@
     <string name="doze_double_tap_summary">Hiển thị thông báo xung bằng cách chạm hai lần</string>
     <!-- Refresh rate -->
     <string name="refresh_rate_title">Tần số quét của màn hình</string>
-    <string name="refresh_rate_summary_auto">Tự động / Tự động tăng tần số quét màn hình từ 60Hz lên 90Hz cho một số nội dụng</string>
+    <string name="refresh_rate_summary_auto">Tự động / Tự động tăng tần số quét màn hình từ 60Hz lên 120Hz cho một số nội dụng</string>
     <string name="refresh_rate_summary_60">60Hz / Tần số quét của màn hình cố định ở mức 60Hz cho mọi nội dung</string>
-    <string name="refresh_rate_summary_90">90Hz / Tần số quét của màn hình cố định ở mức 90Hz cho mọi nội dung. Tăng tần suất sử dụng pin</string>
+    <string name="refresh_rate_summary_120">120Hz / Tần số quét của màn hình cố định ở mức 120Hz cho mọi nội dung. Tăng tần suất sử dụng pin</string>
     <string name="auto_refresh_rate">Tự động</string>
     <!-- Hardware info -->
     <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->

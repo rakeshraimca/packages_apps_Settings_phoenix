@@ -140,9 +140,9 @@
     <string name="doze_double_tap_summary">Pulsar notificações com um toque duplo</string>
     <!-- Refresh rate -->
     <string name="refresh_rate_title">Taxa de atualização da tela</string>
-    <string name="refresh_rate_summary_auto">Automático / Aumenta automaticamente a taxa de atualização de 60 para 90Hz para alguns conteúdos</string>
+    <string name="refresh_rate_summary_auto">Automático / Aumenta automaticamente a taxa de atualização de 60 para 120Hz para alguns conteúdos</string>
     <string name="refresh_rate_summary_60">60Hz / Taxa de atualização bloqueada em 60Hz para todo o conteúdo</string>
-    <string name="refresh_rate_summary_90">90Hz / Taxa de atualização bloqueada em 90Hz para todo o conteúdo. Maior uso de bateria</string>
+    <string name="refresh_rate_summary_120">120Hz / Taxa de atualização bloqueada em 120Hz para todo o conteúdo. Maior uso de bateria</string>
     <string name="auto_refresh_rate">Automático</string>
     <!-- Hardware info -->
     <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->

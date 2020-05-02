@@ -140,9 +140,9 @@
     <string name="doze_double_tap_summary">Pulzáló értesítések dupla érintésre</string>
     <!-- Refresh rate -->
     <string name="refresh_rate_title">Képernyő frissítés</string>
-    <string name="refresh_rate_summary_auto">Automatikus / Egyes esetekben automatikusan megemeli a frissítés értékét 60-ról 90Hz-re</string>
+    <string name="refresh_rate_summary_auto">Automatikus / Egyes esetekben automatikusan megemeli a frissítés értékét 60-ról 120Hz-re</string>
     <string name="refresh_rate_summary_60">60Hz / A frissítési értéket 60Hz-en rögzíti minden tartalomhoz</string>
-    <string name="refresh_rate_summary_90">90Hz / A frissítési értéket 90Hz-en rögzíti minden tartalomhoz. Nő az akkumulátor fogyasztás</string>
+    <string name="refresh_rate_summary_120">120Hz / A frissítési értéket 120Hz-en rögzíti minden tartalomhoz. Nő az akkumulátor fogyasztás</string>
     <string name="auto_refresh_rate">Automatikus</string>
     <!-- Hardware info -->
     <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->

@@ -140,9 +140,9 @@
     <string name="doze_double_tap_summary">Faire clignoter les notifications par double appui</string>
     <!-- Refresh rate -->
     <string name="refresh_rate_title">Taux de rafraîchissement de l\'écran</string>
-    <string name="refresh_rate_summary_auto">Basculer automatiquement le taux de rafraîchissement de 60 à 90Hz pour les contenus disponibles</string>
+    <string name="refresh_rate_summary_auto">Basculer automatiquement le taux de rafraîchissement de 60 à 120Hz pour les contenus disponibles</string>
     <string name="refresh_rate_summary_60">Taux de rafraîchissement bloqué à 60Hz</string>
-    <string name="refresh_rate_summary_90">Taux de rafraîchissement bloqué à 90Hz. Cela augmentera la consommation de batterie</string>
+    <string name="refresh_rate_summary_120">Taux de rafraîchissement bloqué à 120Hz. Cela augmentera la consommation de batterie</string>
     <string name="auto_refresh_rate">Automatique</string>
     <!-- Hardware info -->
     <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->

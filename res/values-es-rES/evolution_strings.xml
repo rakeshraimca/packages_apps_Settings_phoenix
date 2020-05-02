@@ -141,9 +141,9 @@
     <string name="doze_double_tap_summary">Notificaciones emergentes por doble toque</string>
     <!-- Refresh rate -->
     <string name="refresh_rate_title">Frecuencia de refresco de la pantalla</string>
-    <string name="refresh_rate_summary_auto">Auto / Automáticamente aumenta la tasa de refresco de 60 a 90Hz para algún contenido</string>
+    <string name="refresh_rate_summary_auto">Auto / Automáticamente aumenta la tasa de refresco de 60 a 120Hz para algún contenido</string>
     <string name="refresh_rate_summary_60">60Hz / Tasa de refresco bloqueada a 60Hz para todo el contenido</string>
-    <string name="refresh_rate_summary_90">90Hz / Tasa de refresco bloqueada a 90Hz para todo el contenido. Aumenta el uso de batería</string>
+    <string name="refresh_rate_summary_120">120Hz / Tasa de refresco bloqueada a 120Hz para todo el contenido. Aumenta el uso de batería</string>
     <string name="auto_refresh_rate">Automático</string>
     <!-- Hardware info -->
     <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->

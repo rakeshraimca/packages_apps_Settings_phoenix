@@ -138,12 +138,12 @@
     <string name="double_tap_title">இருமுறை தட்டு</string>
     <string name="doze_double_tap_title">இருமுறை தட்டு செயலியை எழுப்ப</string>
     <string name="doze_double_tap_summary">அறிவிப்பைக் காட்ட இருமுறை தட்டு</string>
-    <!-- Refresh rate -->
+    <!--  Refresh rate 
     <string name="refresh_rate_title">திரை புதுப்பிப்பு வீதம்</string>
     <string name="refresh_rate_summary_auto">தானியங்கு திரை புதுப்பிப்பு வீதம்</string>
     <string name="refresh_rate_summary_60">திரை புதுப்பிப்பு வீதம் 60hz அமைக்கப்பட்டுள்ளது</string>
-    <string name="refresh_rate_summary_90">திரை புதுப்பிப்பு வீதம் 90hz அமைக்கப்பட்டுள்ளது. பேட்டரி பயன்பாடு அதிகரிக்கும்</string>
-    <string name="auto_refresh_rate">தானியங்கு</string>
+    <string name="refresh_rate_summary_120">திரை புதுப்பிப்பு வீதம் 90hz  120hz க்கப்பட்டுள்ளது. பேட்டரி பயன்பாடு அதிகரிக்கும்</string>
+    <string name="auto_refresh_rate">தானியங்கு</string>  -->
     <!-- Hardware info -->
     <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
     <string name="platform_revision">ப்ளாட்ஃபார்ம்</string>

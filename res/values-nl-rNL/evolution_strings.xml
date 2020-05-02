@@ -141,9 +141,9 @@
     <string name="doze_double_tap_summary">Pulseer notificaties met een dubbele aanraking</string>
     <!-- Refresh rate -->
     <string name="refresh_rate_title">Ververssnelheid scherm</string>
-    <string name="refresh_rate_summary_auto">Automatisch / verhoogt automatisch de ververssnelheid van 60 naar 90Hz voor sommige inhouden</string>
+    <string name="refresh_rate_summary_auto">Automatisch / verhoogt automatisch de ververssnelheid van 60 naar 120Hz voor sommige inhouden</string>
     <string name="refresh_rate_summary_60">60Hz / ververssnelheid vergrendeld op 60Hz voor alle inhoud</string>
-    <string name="refresh_rate_summary_90">90Hz / ververssnelheid vergrendeld op 90Hz voor alle inhoud. Verhoogd batterijgebruik</string>
+    <string name="refresh_rate_summary_120">120Hz / ververssnelheid vergrendeld op 120Hz voor alle inhoud. Verhoogd batterijgebruik</string>
     <string name="auto_refresh_rate">Automatisch</string>
     <!-- Hardware info -->
     <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->

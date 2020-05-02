@@ -142,9 +142,9 @@ Malam: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
     <string name="doze_double_tap_summary">Tampilkan pemberitahuan dengan ketukan ganda</string>
     <!-- Refresh rate -->
     <string name="refresh_rate_title">Refresh rate layar</string>
-    <string name="refresh_rate_summary_auto">Otomatis / Otomatis meningkatkan refresh rate layar dari 60 ke 90Hz untuk beberapa konten</string>
+    <string name="refresh_rate_summary_auto">Otomatis / Otomatis meningkatkan refresh rate layar dari 60 ke 120Hz untuk beberapa konten</string>
     <string name="refresh_rate_summary_60">60Hz / Refresh rate dikunci pada 60Hz untuk semua konten</string>
-    <string name="refresh_rate_summary_90">90 Hz / Refresh rate dikunci pada 90Hz untuk semua konten. Meningkatkan penggunaan baterai</string>
+    <string name="refresh_rate_summary_120">120Hz / Refresh rate dikunci pada 120Hz untuk semua konten. Meningkatkan penggunaan baterai</string>
     <string name="auto_refresh_rate">Otomatis</string>
     <!-- Hardware info -->
     <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->

@@ -141,9 +141,9 @@
     <string name="doze_double_tap_summary">Pulzující oznámení dvojitým poklepáním</string>
     <!-- Refresh rate -->
     <string name="refresh_rate_title">Obnovovací frekvence obrazovky</string>
-    <string name="refresh_rate_summary_auto">Automaticky / Pro určitý obsah se automaticky zvýší obnovovací frekvence obrazovky z 60Hz na 90Hz</string>
+    <string name="refresh_rate_summary_auto">Automaticky / Pro určitý obsah se automaticky zvýší obnovovací frekvence obrazovky z 60Hz na 120Hz</string>
     <string name="refresh_rate_summary_60">60Hz / Pro veškerý obsah je obnovovací frekvence obrazovky uzamčena na 60Hz</string>
-    <string name="refresh_rate_summary_90">90Hz / Pro veškerý obsah je obnovovací frekvence obrazovky uzamčena na 90Hz. Zvýšená spotřeba baterie</string>
+    <string name="refresh_rate_summary_120">120Hz / Pro veškerý obsah je obnovovací frekvence obrazovky uzamčena na 120Hz. Zvýšená spotřeba baterie</string>
     <string name="auto_refresh_rate">Auto</string>
     <!-- Hardware info -->
     <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->

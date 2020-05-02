@@ -143,7 +143,7 @@
     <string name="refresh_rate_title">Συχνότητα ανανέωσης οθόνης</string>
     <string name="refresh_rate_summary_auto">Αυτόματη / αυτοματοποιημένη αύξηση της ταχύτατος ανανέωσης από 60 σε 90 Hz για ορισμένα περιεχόμενα</string>
     <string name="refresh_rate_summary_60">60Hz / Ο ρυθμός ανανέωσης κλείδωσε στα 60Hz για όλο το περιεχόμενο</string>
-    <string name="refresh_rate_summary_90">90Hz / Ο ρυθμός ανανέωσης κλείδωσε στα 90Hz για όλο το περιεχόμενο.
+    <string name="refresh_rate_summary_120">120Hz / Ο ρυθμός ανανέωσης κλείδωσε στα 120Hz για όλο το περιεχόμενο.
 Αυξημένη χρήση μπαταρίας</string>
     <string name="auto_refresh_rate">Αυτόματο</string>
     <!-- Hardware info -->

@@ -143,7 +143,7 @@
     <string name="refresh_rate_title">معدل تحديث الشاشة</string>
     <string name="refresh_rate_summary_auto">تلقائي / تلقائيًا يرفع معدل التحديث من 60 إلى 90 هرتز لبعض المحتوى</string>
     <string name="refresh_rate_summary_60">60 هرتز / معدل التحديث مغلق بـ 60 هرتز لجميع المحتويات</string>
-    <string name="refresh_rate_summary_90">90Hz / معدل التحديث ثابت على 90 هرتز لجميع المحتويات.
+    <string name="refresh_rate_summary_120">120Hz / معدل التحديث ثابت على 90 هرتز لجميع المحتويات.
 زيادة استخدام البطارية</string>
     <string name="auto_refresh_rate">تلقائي</string>
     <!-- Hardware info -->

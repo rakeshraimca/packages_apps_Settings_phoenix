@@ -141,9 +141,9 @@
     <string name="doze_double_tap_summary">দুইবার ট্যাপ এর মাধ্যমে পালস্ নোটিফিকেশন দেখুন</string>
     <!-- Refresh rate -->
     <string name="refresh_rate_title">স্ক্রিন রিফ্রেশ রেট</string>
-    <string name="refresh_rate_summary_auto">অটো / স্বয়ংক্রিয়ভাবে কিছু কন্টেন্টের জন্য রিফ্রেশ রেট 60 থেকে 90Hz পর্যন্ত বাড়ায়</string>
+    <string name="refresh_rate_summary_auto">অটো / স্বয়ংক্রিয়ভাবে কিছু কন্টেন্টের জন্য রিফ্রেশ রেট 60 থেকে 120Hz পর্যন্ত বাড়ায়</string>
     <string name="refresh_rate_summary_60">60Hz / রিফ্রেশ রেট সমস্ত সামগ্রীর জন্য 60Hz এ লক করা আছে</string>
-    <string name="refresh_rate_summary_90">90Hz / রিফ্রেশ রেট সমস্ত সামগ্রীর জন্য 90Hz এ লক করে দেওয়া হয়। ব্যাটারির ব্যবহার বৃদ্ধি</string>
+    <string name="refresh_rate_summary_120">120Hz / রিফ্রেশ রেট সমস্ত সামগ্রীর জন্য 120Hz এ লক করে দেওয়া হয়। ব্যাটারির ব্যবহার বৃদ্ধি</string>
     <string name="auto_refresh_rate">স্বয়ংক্রিয়</string>
     <!-- Hardware info -->
     <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->

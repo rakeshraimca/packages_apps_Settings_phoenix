@@ -141,9 +141,9 @@
     <string name="doze_double_tap_summary">双击查看息屏显示通知</string>
     <!-- Refresh rate -->
     <string name="refresh_rate_title">屏幕刷新率</string>
-    <string name="refresh_rate_summary_auto">自动/自动将某些内容的刷新率从60Hz提高到90Hz</string>
+    <string name="refresh_rate_summary_auto">自动/自动将某些内容的刷新率从60Hz提高到120Hz</string>
     <string name="refresh_rate_summary_60">60Hz /所有内容的刷新率均锁定在60Hz</string>
-    <string name="refresh_rate_summary_90">90Hz /所有内容的刷新率均锁定在90Hz，会增加电池使用量</string>
+    <string name="refresh_rate_summary_120">120Hz /所有内容的刷新率均锁定在120Hz，会增加电池使用量</string>
     <string name="auto_refresh_rate">自动</string>
     <!-- Hardware info -->
     <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->

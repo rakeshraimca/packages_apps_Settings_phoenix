@@ -143,7 +143,7 @@
     <string name="refresh_rate_title">Częstotliwość odświeżania ekranu</string>
     <string name="refresh_rate_summary_auto">Auto / Automatycznie podnoś częstotliwość odświeżania z 60 do 90 Hz dla niektórych treści</string>
     <string name="refresh_rate_summary_60">60Hz / Prędkość odświeżania zablokowana na 60Hz dla wszystkich treści</string>
-    <string name="refresh_rate_summary_90">90Hz / Prędkość odświeżania zablokowana na 90Hz dla wszystkich treści. Zwiększone zużycie baterii</string>
+    <string name="refresh_rate_summary_120">120Hz / Prędkość odświeżania zablokowana na 120Hz dla wszystkich treści. Zwiększone zużycie baterii</string>
     <string name="auto_refresh_rate">Automatycznie</string>
     <!-- Hardware info -->
     <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->

@@ -143,7 +143,7 @@
     <string name="refresh_rate_title">Частота обновления экрана</string>
     <string name="refresh_rate_summary_auto">Авто / Автоматическое повышение частоты обновления с 60 до 90 Гц для некоторого контента</string>
     <string name="refresh_rate_summary_60">60Гц / Частота обновления зафиксирована на 60 Гц для всего контента</string>
-    <string name="refresh_rate_summary_90">90Гц / Частота обновления зафиксирована на 90 Гц для всех приложений. Увеличенный расход батареи</string>
+    <string name="refresh_rate_summary_120">90Гц / Частота обновления зафиксирована на 90 Гц для всех приложений. Увеличенный расход батареи</string>
     <string name="auto_refresh_rate">Автоматически</string>
     <!-- Hardware info -->
     <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->

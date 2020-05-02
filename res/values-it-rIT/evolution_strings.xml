@@ -141,9 +141,9 @@
     <string name="doze_double_tap_summary">Mostra le notifiche con un doppio tocco</string>
     <!-- Refresh rate -->
     <string name="refresh_rate_title">Frequenza di aggiornamento dello schermo</string>
-    <string name="refresh_rate_summary_auto">Auto / Aumenta il tasso di aggiornamento del display da 60 a 90Hz per alcuni contenuti</string>
+    <string name="refresh_rate_summary_auto">Auto / Aumenta il tasso di aggiornamento del display da 60 a 120Hz per alcuni contenuti</string>
     <string name="refresh_rate_summary_60">60Hz / Frequenza di aggiornamento bloccata a 60Hz per tutti i contenuti</string>
-    <string name="refresh_rate_summary_90">90Hz / Frequenza di aggiornamento bloccata a 90Hz per tutti i contenuti. Maggior consumo di batteria</string>
+    <string name="refresh_rate_summary_120">120Hz / Frequenza di aggiornamento bloccata a 120Hz per tutti i contenuti. Maggior consumo di batteria</string>
     <string name="auto_refresh_rate">Automatico</string>
     <!-- Hardware info -->
     <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->

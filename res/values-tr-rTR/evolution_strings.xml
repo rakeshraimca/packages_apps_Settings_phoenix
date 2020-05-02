@@ -141,9 +141,9 @@
     <string name="doze_double_tap_summary">Çift dokunma ile bildirimleri göster</string>
     <!-- Refresh rate -->
     <string name="refresh_rate_title">Ekran yenileme oranı</string>
-    <string name="refresh_rate_summary_auto">Otomatik / Bazı içerikler için yenileme hızını otomatik olarak 60\'dan 90Hz\'e yükseltir</string>
+    <string name="refresh_rate_summary_auto">Otomatik / Bazı içerikler için yenileme hızını otomatik olarak 60\'dan 120Hz\'e yükseltir</string>
     <string name="refresh_rate_summary_60">60Hz / Tüm içerik için yenileme hızı 60Hz\'de kilitlendi</string>
-    <string name="refresh_rate_summary_90">90Hz / Tüm içeriklerin yenileme hızı 90Hz\'de kilitlendi. Pil kullanımını arttırır</string>
+    <string name="refresh_rate_summary_120">120Hz / Tüm içeriklerin yenileme hızı 120Hz\'de kilitlendi. Pil kullanımını arttırır</string>
     <string name="auto_refresh_rate">Otomatik</string>
     <!-- Hardware info -->
     <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->

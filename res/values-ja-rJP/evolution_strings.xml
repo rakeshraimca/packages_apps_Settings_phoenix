@@ -141,9 +141,9 @@
     <string name="doze_double_tap_summary">ダブルタップで通知を点滅させる</string>
     <!-- Refresh rate -->
     <string name="refresh_rate_title">画面リフレッシュレート</string>
-    <string name="refresh_rate_summary_auto">自動 / いくつかのコンテンツでリフレッシュレートを60Hzから90Hzに自動的に変更します。</string>
+    <string name="refresh_rate_summary_auto">自動 / いくつかのコンテンツでリフレッシュレートを60Hzから120Hzに自動的に変更します。</string>
     <string name="refresh_rate_summary_60">60Hz / 全てのコンテンツでリフレッシュレートを60Hzに固定</string>
-    <string name="refresh_rate_summary_90">90Hz / すべてのコンテンツでリフレッシュレートを90Hzに固定する。バッテリー使用量が増加します。</string>
+    <string name="refresh_rate_summary_120">120Hz / すべてのコンテンツでリフレッシュレートを120Hzに固定する。バッテリー使用量が増加します。</string>
     <string name="auto_refresh_rate">自動</string>
     <!-- Hardware info -->
     <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->

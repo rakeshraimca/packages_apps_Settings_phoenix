@@ -141,9 +141,9 @@
     <string name="doze_double_tap_summary">दो बार स्पर्श करने पर पल्स नोटिफिकेशन</string>
     <!-- Refresh rate -->
     <string name="refresh_rate_title">स्क्रीन रिफ्रेश दर</string>
-    <string name="refresh_rate_summary_auto">स्वतः कुछ कंटेंट के लिए रिफ्रेश दर 60Hz से 90Hz बढ़ाएं</string>
+    <string name="refresh_rate_summary_auto">स्वतः कुछ कंटेंट के लिए रिफ्रेश दर 60Hz से 120Hz बढ़ाएं</string>
     <string name="refresh_rate_summary_60">60Hz / सभी कंटेंट के लिए रिफ्रेश दर 60Hz रखें</string>
-    <string name="refresh_rate_summary_90">90Hz / सभी कंटेंट के लिए रिफ्रेश दर 90Hz करें। इससे बैटरी ज़्यादा खर्च होगी</string>
+    <string name="refresh_rate_summary_120">120Hz / सभी कंटेंट के लिए रिफ्रेश दर 120Hz करें। इससे बैटरी ज़्यादा खर्च होगी</string>
     <string name="auto_refresh_rate">स्वतः</string>
     <!-- Hardware info -->
     <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->

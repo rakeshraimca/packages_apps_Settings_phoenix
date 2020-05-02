@@ -142,9 +142,9 @@ Es wird auch ausgelöst, wenn Ambient Display deaktiviert ist wenn eine neuer Tr
     <string name="doze_double_tap_summary">Benachrichtigungen mit einem Doppeltipp aufscheinen lassen</string>
     <!-- Refresh rate -->
     <string name="refresh_rate_title">Bildschirmwiederholungsrate</string>
-    <string name="refresh_rate_summary_auto">Automatisch / Erhöht automatisch die Aktualisierungsrate von 60 auf 90Hz für einige Inhalte</string>
+    <string name="refresh_rate_summary_auto">Automatisch / Erhöht automatisch die Aktualisierungsrate von 60 auf 120Hz für einige Inhalte</string>
     <string name="refresh_rate_summary_60">Aktualisierungsrate für alle Inhalte bei 60 Hz gesperrt</string>
-    <string name="refresh_rate_summary_90">Aktualisierungsrate für alle Inhalte bei 90 Hz gesperrt (erhöhter Akkuverbrauch)</string>
+    <string name="refresh_rate_summary_120">Aktualisierungsrate für alle Inhalte bei 90 Hz gesperrt (erhöhter Akkuverbrauch)</string>
     <string name="auto_refresh_rate">Automatisch</string>
     <!-- Hardware info -->
     <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->

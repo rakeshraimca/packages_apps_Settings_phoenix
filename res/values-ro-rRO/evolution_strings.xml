@@ -143,7 +143,7 @@
     <string name="refresh_rate_title">Rata de actualizare a ecranului</string>
     <string name="refresh_rate_summary_auto">Auto / Crește rata de actualizare de la 60 la 90 Hz pentru un anumit conținut in mod automat</string>
     <string name="refresh_rate_summary_60">60Hz / Rata de actualizare blocată la 60Hz pentru tot conținutul</string>
-    <string name="refresh_rate_summary_90">90Hz / Rata de actualizare blocată la 90Hz pentru tot conținutul. Utilizează mai multă baterie</string>
+    <string name="refresh_rate_summary_120">120Hz / Rata de actualizare blocată la 120Hz pentru tot conținutul. Utilizează mai multă baterie</string>
     <string name="auto_refresh_rate">Automat</string>
     <!-- Hardware info -->
     <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
